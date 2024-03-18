@@ -5,6 +5,7 @@ This project automates the process of coordinating appointments for UC Berkeley'
 
 ### Bot Token Scopes: ###
 * chat:write = Send messages as AppointmentBot
+* channels:read = View basic information about public channels in a workspace
 * users:read.email = View email addresses of people in a workspace
 * users:read = View people in a workspace
 * mpim:write = Start group direct messages with people
